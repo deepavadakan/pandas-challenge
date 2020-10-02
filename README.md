@@ -65,7 +65,7 @@ Output:
     * Total Purchase Value
 
 Output:
-![Top Spenders](Images/top_spendersr.png)   
+![Top Spenders](Images/top_spenders.png)   
 
 ### Most Popular Items
 * Identify the 5 most popular items by purchase count, then list (in a table):
