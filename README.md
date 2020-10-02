@@ -8,6 +8,7 @@ Worked on Heroes of Pymoli to generate the following report:
 
 ### Player Count
 * Total Number of Players
+![Player Count](Images/player_count.png)
 
 ### Purchasing Analysis (Total)
 * Number of Unique Items
