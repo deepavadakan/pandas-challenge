@@ -90,5 +90,15 @@ Output:
 ![Most Profitable Items](Images/most_profitable.png)   
 
 ### Analysis
-* Added a **Trends.txt** file that includes description of three observable trends based on the data
-    
+(can also be found in Trends.txt)
+Heroes of Pymoli Observable Trends: 
+
+* Male players make up the majority of the fantasy game Heroes of Pymoli players, over 80%.
+
+* On average, per player, female and non-disclosed payers spent slightly more than Male players. However, due to the number of Male players, they spent the most money on the game($1,967.64), far outweighing the female($361.94) and other/non-disclosed players($50.19).
+
+* The majority of players are in the 20-24 age group who also had the highest Total purchase per age group, spending an average of $4.32 per person. This was followed by the 15-19 age group.
+
+* ‘Final Critic’ and ‘Oathbreaker, Last Hope of the Breaking Storm’ are the 2 most popular and most profitable games.
+
+* Marketing should be targetted towards Males in the 20-24 age group. ‘Final Critic’ and ‘Oathbreaker, Last Hope of the Breaking Storm’ should be promoted as best sellers since they are the most popular and prfitable games
